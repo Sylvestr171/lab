@@ -1,4 +1,5 @@
 from django.shortcuts import render
+from .forms import TagForm
 
 # Create your views here.
 def main(request):
